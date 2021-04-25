@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Micromed](https://micromed.ind.br/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, React, NextJS, Angular, NodeJS, Django, Django Rest, Python, Google CLoud Platform, Firebase, Firestore**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, React, NextJS, Angular, NodeJS, Django, Django Rest, Python, Google Cloud Platform, Firebase, Firestore**
 
 - 📫 How to reach me **vagnernico@gmail.com**
 
