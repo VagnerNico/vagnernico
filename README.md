@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Engineer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=VagnerNico" alt="VagnerNico" /></p>
 
-- 🔭 I’m currently working on [Micromed](https://micromed.ind.br/)
+- 🔭 I’m currently working on [Limit](https://limit.com/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, React, NextJS, Angular, NodeJS, Django, Django Rest, Python, Google Cloud Platform, Firebase, Firestore**
 
